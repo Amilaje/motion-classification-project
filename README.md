@@ -14,7 +14,7 @@
    - 주요 피처들의 분포와 상관관계 분석  
 
 2. **기본 모델링**
-   - 전통 ML 모델(XGBoost, LightGBM) 적용
+   - 전통 ML 모델(XGBoost, RandomForest) 적용
    - 모델별 성능 비교 및 피처 중요도 분석  
 
 3. **파이프라인 기반 고도화 모델링**
@@ -32,7 +32,7 @@
 
 - **언어 및 프레임워크**: Python, TensorFlow, scikit-learn  
 - **시각화 도구**: matplotlib, seaborn  
-- **모델**: XGBoost, LightGBM, MLP  
+- **모델**: XGBoost, RandomForest, MLP  
 - **개발 환경**: Jupyter Notebook, Google Colab
 
 ---
@@ -51,7 +51,7 @@
 본 프로젝트에서는 단순 모델 적용을 넘어서,  
 데이터의 특성과 문제 구조를 고려한 전략적 모델 설계를 시도했습니다.
 
-- 🧠 XGBoost와 LightGBM은 주요 피처의 중요도를 분석하여 피처 엔지니어링에 활용  
+- 🧠 XGBoost와 RandomForest는 주요 피처의 중요도를 분석하여 피처 엔지니어링에 활용  
   → 전체 561개 피처 중, 중요도 기반으로 210개 피처를 선별하여 최종 학습에 사용
 - 🔁 전통 ML 모델을 기반으로 파이프라인 구성 및 효율성 점검
 - ⚙️ 정적 동작 / 동적 동작을 분리하여 각각 딥러닝 모델(DNN)로 학습
