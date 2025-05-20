@@ -21,7 +21,7 @@ KT Aivle School 과정 중 수행한 팀 프로젝트입니다.
    - TensorFlow 기반의 다층 퍼셉트론(MLP) 모델 구성  
    - 조기 종료(EarlyStopping), Dropout 등으로 성능 향상
 
-## 🛠사용 기술
+## 사용 기술
 - Python, Pandas, Scikit-learn, TensorFlow
 - XGBoost, LightGBM
 - Jupyter Notebook, Google Colab
