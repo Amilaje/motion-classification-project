@@ -32,9 +32,6 @@
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
 
-### 중요 피처 상위 5개
-![Feature Importance](images/feature_importance.png)
-
 ### 모델별 Macro-F1 비교
 ![Model F1 Comparison](images/model_f1_comparison.png)
 
