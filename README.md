@@ -27,19 +27,6 @@
 
 ---
 
-## 주요 시각화 결과
-
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
-### 모델별 Macro-F1 비교
-![Model F1 Comparison](images/model_f1_comparison.png)
-
-### 학습 곡선 (Accuracy / Loss)
-![Training Curve](images/training_curve.png)
-
----
-
 ##  사용 기술
 
 - **언어 및 프레임워크**: Python, TensorFlow, scikit-learn
