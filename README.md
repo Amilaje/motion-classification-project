@@ -33,12 +33,14 @@ KT Aivle School 과정 중 수행한 팀 프로젝트입니다.
 - `features_description.xlsx`: Feature 이름 설명서
 
 ## 폴더 구조
+```
 ├── data/ : 데이터 파일
 ├── notebooks/ : 분석 및 모델링 노트북
 ├── images/ : 시각화 결과
 ├── docs/ : 기획 및 문서 자료
 ├── requirements.txt: 패키지 목록
 └── README.md : 프로젝트 소개 문서
+```
 
 ## 성능 지표
 - 주요 모델: XGBoost, LightGBM, DNN
