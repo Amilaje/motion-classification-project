@@ -29,9 +29,6 @@
 
 ## 주요 시각화 결과
 
-### 클래스 분포
-![Class Distribution](images/class_distribution.png)
-
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
 
