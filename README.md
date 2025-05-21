@@ -14,7 +14,7 @@
    - 주요 피처들의 분포와 상관관계 분석  
 
 2. **기본 모델링**
-   - 전통 ML 모델(XGBoost, RandomForest) 적용
+   - 전통 ML 모델(RandomForest) 적용
    - 모델별 성능 비교 및 피처 중요도 분석  
 
 3. **파이프라인 기반 고도화 모델링**
@@ -32,7 +32,7 @@
 
 - **언어 및 프레임워크**: Python, TensorFlow, scikit-learn  
 - **시각화 도구**: matplotlib, seaborn  
-- **모델**: XGBoost, RandomForest, MLP  
+- **모델**: RandomForest, MLP  
 - **개발 환경**: Jupyter Notebook, Google Colab
 
 ---
